@@ -1,5 +1,3 @@
-# K_means_Image_segmentation_and_Stiching
-
 Instructions
 
 1) Before runnning the code make sure the required files are present
